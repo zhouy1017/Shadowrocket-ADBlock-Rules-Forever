@@ -6,6 +6,8 @@
 # 不包含广告过滤
 #
 
+{{manual_bt}}
+
 {{manual_direct}}
 {{manual_proxy}}
 

@@ -1,0 +1,13 @@
+# 手工定义的 BitTorrent 直连列表（BT 下载不走代理）
+
+# Tracker / 种子域名关键词
+announce
+tracker
+torrent
+
+# DHT 引导节点（不含以上关键词的）
+dht.aelitis.com
+
+# M-Team (PT) 站点及 Tracker 直连
+m-team.cc
+m-team.io

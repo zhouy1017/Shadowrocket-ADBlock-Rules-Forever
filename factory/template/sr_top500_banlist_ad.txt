@@ -8,6 +8,9 @@
 {{manual_reject}}
 
 {{ad}}
+
+{{manual_bt}}
+
 {{gfwlist}}
 
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list,PROXY

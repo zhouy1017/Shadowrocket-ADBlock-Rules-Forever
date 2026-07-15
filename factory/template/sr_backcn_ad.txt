@@ -4,6 +4,8 @@
 # 包含广告过滤
 #
 
+{{manual_bt}}
+
 DOMAIN-SUFFIX,cn,proxy
 
 GEOIP,CN,proxy

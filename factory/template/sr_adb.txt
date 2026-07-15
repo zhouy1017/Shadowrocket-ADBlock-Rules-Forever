@@ -15,6 +15,9 @@
 {{manual_direct}}
 
 {{ad}}
+
+{{manual_bt}}
+
 {{top500_proxy}}
 
 DOMAIN-KEYWORD,google,Proxy

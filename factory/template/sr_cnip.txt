@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#237
 
 {{manual_proxy}}
 
+{{manual_bt}}
+
 GEOIP,CN,DIRECT
 
 FINAL,proxy

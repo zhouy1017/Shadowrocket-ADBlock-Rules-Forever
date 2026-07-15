@@ -10,6 +10,8 @@
 {{ad}}
 {{manual_reject}}
 
+{{manual_bt}}
+
 {{manual_direct}}
 {{manual_proxy}}
 

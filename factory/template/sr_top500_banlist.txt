@@ -4,6 +4,8 @@
 #
 
 
+{{manual_bt}}
+
 {{manual_proxy}}
 {{gfwlist}}
 

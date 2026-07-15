@@ -8,4 +8,6 @@
 
 {{ad}}
 
+{{manual_bt}}
+
 FINAL,direct
